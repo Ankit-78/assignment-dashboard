@@ -41,10 +41,12 @@ This project allows users to manage categories and widgets dynamically — add, 
 
 ## 📦 Installation & Setup (Local)
 
-1️⃣ **Clone the repository**
+1️⃣ **Clone the repository in your system**
  git clone https://github.com/your-username/assignment-dashboard.git
  cd assignment-dashboard  
 
 2️⃣ Install dependencies : npm install
 
-3️⃣ Run the development server : npm run dev
+3️⃣ Run the development server : npm run dev 
+
+- ▲ **Deployment: Vercel**
