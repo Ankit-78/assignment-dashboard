@@ -1,4 +1,4 @@
-# 📊 Dynamic Dashboard (React + Vite + TypeScript + Tailwind)
+# 📊 Dynamic Dashboard (React + Vite + TypeScript + Tailwind CSS V3)
 
 A dynamic and customizable **Dashboard Application** built using **React (Vite) + TypeScript + Tailwind CSS**.  
 This project allows users to manage categories and widgets dynamically — add, remove, and search widgets on the fly.
@@ -42,6 +42,9 @@ This project allows users to manage categories and widgets dynamically — add, 
 ## 📦 Installation & Setup (Local)
 
 1️⃣ **Clone the repository**
-```bash
-git clone https://github.com/your-username/dynamic-dashboard.git
-cd dynamic-dashboard
+ git clone https://github.com/your-username/assignment-dashboard.git
+ cd assignment-dashboard  
+
+2️⃣ Install dependencies : npm install
+
+3️⃣ Run the development server : npm run dev
